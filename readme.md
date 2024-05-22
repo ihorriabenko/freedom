@@ -1,6 +1,16 @@
-Freedom social app.
+## Development
 
-![Build](/assets/screens/build.png)
+**First**, install dependencies:
+
+```sh
+npm i
+```
+
+**Second**, start project:
+
+```sh
+npm start
+```
 
 <img src="/assets/screens/0.png" width="315" height="700"/>
 <img src="/assets/screens/1.png" width="315" height="700"/>
@@ -10,5 +20,5 @@ Freedom social app.
 <img src="/assets/screens/5.png" width="315" height="700"/>
 <img src="/assets/screens/6.png" width="315" height="700"/>
 <img src="/assets/screens/7.png" width="315" height="700"/>
-<img src="/assets/screens/8.png" width="315" height="700"/>
-<img src="/assets/screens/9.png" width="315" height="700"/>
+<img src="/assets/screens/8.PNG" width="315" height="700"/>
+<img src="/assets/screens/9.PNG" width="315" height="700"/>
